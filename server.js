@@ -10,7 +10,7 @@ const app = express();
 require('dotenv').config();
 
 // hey express, find the public folder, and serve files from there
-app.use(express.static('./public'));
+app.use(express.static('./portfolio'));
 
 const PORT = process.env.PORT;
 
