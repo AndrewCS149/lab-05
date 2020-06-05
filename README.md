@@ -2,6 +2,8 @@
 
 # Lab 04b / lab 05: RWD Portfolio
 
+[https://andrewcs-portfolio.herokuapp.com/](herokuURL)
+
 ## Overview
 
 For today's lab assignment, you will work independently to create a personal portfolio. You will begin with the provided starter code and modify the contents to complete your feature tasks. Take time to review the provided code base and understand its structure before adding features.
@@ -55,9 +57,9 @@ Estimate of time needed to complete: 60 min
 
 Start time: 1:46
 
-Finish time: 
+Finish time: 4:55
 
-Actual time needed to complete: 60 min
+Actual time needed to complete: 189 min
 ```
 
 Add this information to your README.
