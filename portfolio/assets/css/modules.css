@@ -328,7 +328,7 @@ button:active,
 }
 
 #header .icons a {
-	color: #41484c;
+	color: #76cdff;
 	-moz-transition: color 0.35s ease-in-out;
 	-webkit-transition: color 0.35s ease-in-out;
 	-ms-transition: color 0.35s ease-in-out;
@@ -414,7 +414,7 @@ button:active,
 }
 
 #nav ul li a.active span:before {
-	color: #e27689;
+	color: #76cdff;
 }
 
 /* Footer */
@@ -499,9 +499,8 @@ button:active,
 #main>section.one {
 	background-color: #81918E;
 	/* background-image: url("../../images/banner.jpg"); */
-	background-image: url("../../images/chloe.jpg");
-	background-size: 33% 100%;
-	background-repeat: no-repeat;
+	/* background-image: url("../../images/chloe.jpg"); */
+	background-image: url("../../images/water.JPG");
 	/* background-image: url("../../images/chloe2.jpg"); */
 	/* background-image: url("../../images/star-wars.jpeg"); */
 }
