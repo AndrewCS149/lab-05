@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600"); */
 
 /* Image */
 
@@ -503,6 +503,7 @@ button:active,
 	background-image: url("../../images/water.JPG");
 	/* background-image: url("../../images/chloe2.jpg"); */
 	/* background-image: url("../../images/star-wars.jpeg"); */
+	font-weight: 400;
 }
 
 
