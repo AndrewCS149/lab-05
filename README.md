@@ -69,9 +69,9 @@ Estimate of time needed to complete: 120 min
 
 Start time: 4:57
 
-Finish time: 
+Finish time: unknown
 
-Actual time needed to complete: 
+Actual time needed to complete: roughly 3 hours
 ```
 
 Add this information to your README.
